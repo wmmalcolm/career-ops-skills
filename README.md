@@ -1,5 +1,11 @@
 # Career-Ops
 
+> **Fork context:** This repository tracks the upstream Career-Ops framework and preserves its
+> original attribution. Bill Malcolm's personalized career evidence, LinkedIn positioning, and
+> governed Codex operating workflow are maintained separately; see
+> [Bill's LinkedIn profile](https://www.linkedin.com/in/williammalcolm) for the public career
+> narrative. This fork should not be read as a claim of authorship of the upstream system.
+
 **[:gb: English](#what-is-this)** | **[:es: Español](#es-versión-en-español)**
 
 > AI-powered job search pipeline built on Claude Code. Evaluate offers, generate tailored CVs, scan portals, and track everything -- powered by AI agents.
